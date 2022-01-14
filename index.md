@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/sumogri/sumogri.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+すもぐり/sumogri
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Twitter : https://twitter.com/Sumoguri_Zero
+- unityroom : https://unityroom.com/users/syq0mdbnfwxku1e253vr
+- カクヨム : https://kakuyomu.jp/users/sumogri_zero/works
 
-### Markdown
+## Produncts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Games
 
-```markdown
-Syntax highlighted code block
+- 突発性思春期心中症候群 未練ノベル 2022/01/05 https://unityroom.com/games/kokoro
+- Pistols 弾丸操作シューティング 2021/09/20 https://unityroom.com/games/pistols
+- お会計ダービー クソゲーム 2021/03/14 https://unityroom.com/games/okaikey_derby
+- あけろ! マトリョーシカ! スピードフリックゲーム 2020/12/29 https://unityroom.com/games/pandora
+- RUSH ヒロイック連打ムービー 2020/08/18 https://unityroom.com/games/rush
+- 秘密結社ノースリーブ 直感的間違い探し 2020/05/05  https://unityroom.com/games/ss_nosleeve
+- Exit With... 館脱出ADV  2019/10/27 https://unityroom.com/games/exitwith
+- 
 
-# Header 1
-## Header 2
-### Header 3
+### Novels
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumogri/sumogri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ショートショート 2021/11/1～ https://kakuyomu.jp/works/16816700428838437793
