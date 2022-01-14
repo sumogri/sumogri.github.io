@@ -1,4 +1,5 @@
 ## Resume
+![fl2tUz9Q (1)](https://user-images.githubusercontent.com/12965248/149537083-ae444122-0b47-4401-9482-c2b3d7f64a4a.png)
 
 すもぐり/sumogri  
 Programmer  
