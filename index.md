@@ -7,6 +7,7 @@ Programmer
 - [Twitter](https://twitter.com/Sumoguri_Zero)
 - [unityroom](https://unityroom.com/users/syq0mdbnfwxku1e253vr)
 - [カクヨム](https://kakuyomu.jp/users/sumogri_zero/works)
+- [Blog](http://sumogri.hatenablog.com/)
 
 ## Produncts
 
