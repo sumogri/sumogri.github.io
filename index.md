@@ -9,7 +9,7 @@ Programmer
 - [カクヨム](https://kakuyomu.jp/users/sumogri_zero/works)
 - [Blog](http://sumogri.hatenablog.com/)
 
-## Produncts
+## Products
 
 ### Games
 
