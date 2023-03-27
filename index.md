@@ -30,4 +30,5 @@ Programmer
 
 ### Novels
 
+- [[KAC2023]金曜日はサボリの日](https://kakuyomu.jp/users/sumogri_zero/collections/16817330654232269267) 掌編連作 2023/03/17
 - [ショートショート](https://kakuyomu.jp/works/16816700428838437793) 2021/11/1～ 
